@@ -12,11 +12,6 @@
 ## 🔗 Link Documentação: 
   - Doc. Postman [clicando aqui.](https://documenter.getpostman.com/view/22954681/2s8ZDR9SJT)
 
-<br>
-
-## 🔗 Link Video: 
-  - Doc. Video [clicando aqui.](https://youtu.be/Aa1MQMmDSjE)
-
 <br>  
 
 ## 💻 Imagens:
