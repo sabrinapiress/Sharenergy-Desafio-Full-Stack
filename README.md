@@ -1,4 +1,4 @@
-<h1 id="top"> ⚡️ Projeto Sharenergy 2023/01: Desafio Tecnico </h1>
+<h1 id="top"> ⚡️ Projeto Sharenergy 2023/01: Desafio </h1>
 
 ![image](https://user-images.githubusercontent.com/99099328/212432523-9c0ff214-d107-406d-8bac-c62369034820.png)
 
